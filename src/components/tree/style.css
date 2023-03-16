@@ -1,0 +1,15 @@
+.new__folder {
+    width: 375px;
+    margin-top: 20px;
+}
+
+.new__folder .folder__icon {
+    color: rgb(213, 213, 6);
+    font-size: 20px;
+}
+
+.new__folder .folder {
+    border: none;
+    margin: 0 10px 0 10px;
+    text-overflow: ellipsis;
+}
